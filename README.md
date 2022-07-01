@@ -1,4 +1,4 @@
-# vue-school-router
+# vue-school
 
 ## Project setup
 ```
